@@ -19,7 +19,6 @@ public class ViewColor extends HttpServlet {
             response.getWriter().println(str);
 
         }
-
     }
 
 }
